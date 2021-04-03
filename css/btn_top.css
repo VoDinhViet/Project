@@ -1,0 +1,21 @@
+.btn-top {
+  bottom: 20px;
+  cursor: pointer;
+  display: none;
+  height: 50px;
+  outline: medium none;
+  padding: 0;
+  position: fixed;
+  right: 20px;
+  width: 50px;
+  z-index: 9999;
+  background: crimson;
+  border: 2px solid #fff;
+  border-radius: 45px;
+  padding: 11px 12.5px;
+  box-shadow: 1px 3px 5px 0px rgba(0, 0, 0, 0.3);
+}
+img{
+    width:20px; 
+    height:20px;
+}
